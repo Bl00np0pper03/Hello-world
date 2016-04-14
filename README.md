@@ -1,2 +1,2 @@
-# Hello-world
-sample repository
+Whizzer Sample
+@github
